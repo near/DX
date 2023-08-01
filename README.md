@@ -1,9 +1,6 @@
 # Developer Expereince (DX) for NEAR Protocol
 
 > All things related to the developer experience (DX) when building on [NEAR](https://near.org).
-
-<br />
-
 ___
 
 - [DevX Initiatives Roadmap](https://github.com/orgs/near/projects/75/views/1?pane=info) 💪
