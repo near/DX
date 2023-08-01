@@ -1,6 +1,6 @@
 ---
-name: "\U0001F4A1Feature request"
-about: Suggest an idea for this project
+name: "\U0001F4A1DX Improvement request"
+about: Suggest an idea for improving 
 title: ''
 labels: ''
 assignees: ''

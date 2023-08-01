@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41E Bug report"
-about: Create a report to help us improve
+about: Report an DX problem or issue.
 title: ''
 labels: ''
 assignees: ''
