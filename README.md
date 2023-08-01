@@ -1,10 +1,17 @@
 # Developer Expereince (DX) for NEAR Protocol
-> Single source of truth for all things related to the developer experience (DX) when building on NEAR Protocol.
 
-👉 [Initative Tracking](https://github.com/orgs/near/projects/75/views/1?pane=info) 👈
+> All things related to the developer experience (DX) when building on [NEAR](https://near.org).
+
+<br />
+
 ___
-<br/>
 
+- [DevX Initiatives Roadmap](https://github.com/orgs/near/projects/75/views/1?pane=info) 💪
+- [Give feedback, ideas, & suggestions](https://github.com/near/DX/issues/new) 💡
+
+___
+
+<br/>
 
 ## 📂 DOCS
 
@@ -15,7 +22,6 @@ ___
 <br/>
 
 ## 🚀 bOS  
-> Repos for NEAR's Blockchain Operating System (bOS)
 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
@@ -23,7 +29,6 @@ ___
 | VM 1   | bOS Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | Second version of bOS VM ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
 | social-db | Backend for bOS ***(Smart contract)*** | [nearsocial/social-db](https://github.com/NearSocial/social-db)
-
 
 <br/>
 
@@ -45,3 +50,6 @@ ___
 | wallet-selector |Wallet selection tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
 | create-near-app |Fullstack dApp deployment|[near/create-near-app](https://github.com/near/create-near-app)|
 | VSCode | VSCode extention for bOS | [near/near-vscode](https://github.com/near/near-vscode) |
+
+</br>
+
