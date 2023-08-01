@@ -53,3 +53,10 @@ ___
 
 </br>
 
+## ❓Help
+| Name      | Description |
+| ----------- | ----------- |
+| [NEAR Discord](http://near.chat) | NEAR Dev support on Discord |
+|[NEAR TG](https://t.me/neardev)| NEAR Dev support on Telegram |
+| [bOS TG](https://t.me/NEARisBOS) | bOS specific dev support on Telegram |
+| [bOS VM Dev](https://t.me/NearSocialDev)| bOS VM specific development |
