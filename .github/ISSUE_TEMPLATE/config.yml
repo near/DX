@@ -1,8 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: General NEAR Dev support on Discord
+  - name: NEAR Dev support on Discord
     url: https://near.chat
     about: Ask a question and get support in the \#engineering channels
+  - name: NEAR Dev support on Telegram
+    url: https://t.me/NEARdev
+    about: 
   - name: bOS dev support on Telegram
     url: https://t.me/NEARisBOS
-    about: bOS focused dev support on Telegram
+    about: 
+  - name: bOS VM support on Telegram
+    url: https://t.me/NearSocialDev
+    about: 

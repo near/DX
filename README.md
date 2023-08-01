@@ -4,7 +4,7 @@
 
 ___
 
-- [Give feedback, ideas, & suggestions](https://github.com/near/DX/issues/new) 💡
+- [Give feedback, ideas, & suggestions](https://github.com/near/DX/issues/new/choose) 💡
 - [DevX Initiatives Roadmap](https://github.com/orgs/near/projects/75/views/1?pane=info) 💪
 
 ___
