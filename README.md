@@ -1,7 +1,5 @@
 # Developer Experience (DX) for NEAR Protocol
 
-> All things related to the developer experience (DX) when building on [NEAR](https://near.org).
-
 [![Give Feedback](https://img.shields.io/badge/Give_Feedback_/_Report_Issue-blue)](https://github.com/near/DX/issues/new/choose)
 [![DX Roadmap](https://img.shields.io/badge/DX_Roadmap-green)](https://github.com/orgs/near/projects/75/views/1?pane=info)
 [![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-red)]()
