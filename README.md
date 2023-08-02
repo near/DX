@@ -24,24 +24,37 @@ ___
 
 <br/>
 
-## ⚙️ Dev Tools  
+## 🛠️ Dev Tools  
 
+### 🧑‍💻 Quickstart
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
-| 🌐 ***API (Interacting with NEAR)*** 🌐|
+| create-near-app |Fullstack dApp deployment|[near/create-near-app](https://github.com/near/create-near-app)|
+| VSCode | VSCode extension for bOS | [near/near-vscode](https://github.com/near/near-vscode) |
+
+### 🌐 API 
+| Name      | Description | Repo |
+| ----------- | ----------- | --- |
 | near-api-js | API library used for FE & BE |[near/near-api-js](https://github.com/near)|
 | near-cli | JS based CLI | [near/near-cli](https://github.com/near/near-cli)|
 | near-cli-rs| Rust based CLI | [near/near-cli-rs](https://github.com/near/near-cli-rs)
-| 📝 ***Smart Contracts*** 📝|
+
+### 📝 **Smart Contracts**
+| Name      | Description | Repo |
+| ----------- | ----------- | --- |
 | near-sdk-js|JavaScript contracts| [near/near-sdk-rs](https://github.com/near/near-sdk-rs)|
 | near-sdk-rs|Rust smart contracts| [near/near-sdk-rs](https://github.com/near/near-sdk-rs)|
-|🧪 ***Testing*** 🧪|
+
+### 🧪 Testing
+| Name      | Description | Repo |
+| ----------- | ----------- | --- |
 | workspaces-js|JS based testing sandbox |[near/workspaces-js](https://github.com/near/workspaces-js)|
 | workspaces-rs|Rust based testing sandbox|[near/workspaces-rs](https://github.com/near/workspaces-rs)|
-|⚙️ ***Utils*** ⚙️|
+
+### 🔑 Wallet
+| Name      | Description | Repo |
+| ----------- | ----------- | --- |
 | wallet-selector |Wallet selection tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
-| create-near-app |Fullstack dApp deployment|[near/create-near-app](https://github.com/near/create-near-app)|
-| VSCode | VSCode extension for bOS | [near/near-vscode](https://github.com/near/near-vscode) |
 
 </br>
 
