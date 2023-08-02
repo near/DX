@@ -35,7 +35,7 @@ ___
 ### 🔌 API 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
-| near-api-js | API library for frontend & backend JS libraries |[near/near-api-js](https://github.com/near)|
+| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near)|
 | near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|
 | near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)
 
@@ -61,7 +61,7 @@ ___
 ## ❓Help
 | Name      | Description |
 | ----------- | ----------- |
-| [NEAR Discord](http://near.chat) | NEAR Dev support on Discord |
-| [NEAR TG](https://t.me/neardev)| NEAR Dev support on Telegram |
+| [NEAR Discord](http://near.chat) | NEAR Dev Support on Discord |
+| [NEAR TG](https://t.me/neardev)| NEAR Dev Support on Telegram |
 | [bOS TG](https://t.me/NEARisBOS) | bOS specific dev support on Telegram |
 | [bOS VM Dev](https://t.me/NearSocialDev)| bOS VM specific development |
