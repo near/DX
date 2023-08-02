@@ -1,18 +1,16 @@
-# Developer Experience (DX) for NEAR Protocol
+# NEAR Developer Experience (DX)
 
-[![Give Feedback](https://img.shields.io/badge/Give_Feedback_/_Report_Issue-blue)](https://github.com/near/DX/issues/new/choose)
-[![DX Roadmap](https://img.shields.io/badge/DX_Roadmap-green)](https://github.com/orgs/near/projects/75/views/1?pane=info)
-[![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-red)]()
+[![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://near.org/onboarding)
+[![Give Feedback](https://img.shields.io/badge/Give_Feedback-F9F502)](https://github.com/near/DX/issues/new/choose)
+[![Report Issue](https://img.shields.io/badge/Report_Issue-BE0303)](https://github.com/near/DX/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-bug-report.md&title=[BUG])
+[![DX Roadmap](https://img.shields.io/badge/DX_Roadmap-purple)](https://github.com/orgs/near/projects/75/views/1?pane=info)
+[![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-0087E5)]()
 
+> This repository serves to assist in improving and maintaining the best developer experience possible when building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵 To get involved, please select one of the options above. 🙏
+>
+> Listed below are essential developer resources & repositories for building dApps on NEAR. ⤵️
 ___
-
-## 📂 DOCS
-
-| Url | Repo |
-| ----------- | ----------- |
-| [docs.near.org](https://docs.near.org)   |[near/near-docs](https://github.com/near/near-docs)|
-
-<br/>
+## 📂 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
 
 ## 🚀 bOS  
 
