@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41E Bug report"
+name: "\U0001F41EReport-Issue"
 about: Report an DX problem or issue.
 title: ''
 labels: ''
@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the issue**
+A clear and concise description of what happened.
 
 **To Reproduce**
 Steps to reproduce the behavior:

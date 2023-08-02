@@ -2,18 +2,15 @@
 
 > All things related to the developer experience (DX) when building on [NEAR](https://near.org).
 
+[![Give Feedback](https://img.shields.io/badge/Give_Feedback_/_Report_Issue-blue)](https://github.com/near/DX/issues/new/choose)
+[![DX Roadmap](https://img.shields.io/badge/DX_Roadmap-green)](https://github.com/orgs/near/projects/75/views/1?pane=info)
+[![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-red)]()
+
 ___
-
-- [Give feedback, ideas, & suggestions](https://github.com/near/DX/issues/new/choose) 💡
-- [DevX Initiatives Roadmap](https://github.com/orgs/near/projects/75/views/1?pane=info) 💪
-
-___
-
-<br/>
 
 ## 📂 DOCS
 
-| Site | Repo |
+| Url | Repo |
 | ----------- | ----------- |
 | [docs.near.org](https://docs.near.org)   |[near/near-docs](https://github.com/near/near-docs)|
 
@@ -56,6 +53,6 @@ ___
 | Name      | Description |
 | ----------- | ----------- |
 | [NEAR Discord](http://near.chat) | NEAR Dev support on Discord |
-|[NEAR TG](https://t.me/neardev)| NEAR Dev support on Telegram |
+| [NEAR TG](https://t.me/neardev)| NEAR Dev support on Telegram |
 | [bOS TG](https://t.me/NEARisBOS) | bOS specific dev support on Telegram |
 | [bOS VM Dev](https://t.me/NearSocialDev)| bOS VM specific development |
