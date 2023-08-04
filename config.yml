@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ❓HELP
-    url: https://github.com/near/DX#help
-    about: Developer support channels to support you when building. 
+  - name: ❓- Dev Support
+    url: https://stackoverflow.com/questions/tagged/nearprotocol
+    about: Ask a question on Stack Overflow.
