@@ -1,22 +1,21 @@
-# NEAR Developer Experience (DX)
+# NEAR dApp Developer Experience (DX)
 
-<!-- [![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://near.org/onboarding) -->
+[![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://docs.near.org/bos/)
 [![Give Feedback](https://img.shields.io/badge/Give_Feedback-F9F502)](https://github.com/near/DX/issues/new/choose)
 [![Report Issue](https://img.shields.io/badge/Report_Issue-BE0303)](https://github.com/near/DX/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-bug-report.md&title=[BUG])
-[![Roadmap](https://img.shields.io/badge/Roadmap-purple)](https://github.com/orgs/near/projects/75/views/1?pane=info)
 [![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-0087E5)](https://forms.gle/RWQceqPPhN1i8gdb8)
 [![Dev Support](https://img.shields.io/badge/Dev_Support-white.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/nearprotocol)
+![Roadmap](https://img.shields.io/badge/Roadmap_(coming_soon!)-purple)
 
-
-> This repository is dedicated to improving and maintaining a first-rate developer experience building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
+> This repository dedicated to improving and maintaining a first-rate developer experience when building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
 >
 > **Get involved!** 👉 please select one of the options above. 🙏
 >
-> Listed below are essential developer resources & repositories for building dApps on NEAR. ⤵️
-___
+> ⬇️ Below you will find a map of essential repositories for NEAR dApp developers. ⬇️
+
 ## 📂 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
 
-## 🚀 Blockchain Operating System (aka B.O.S.)
+## 🚀 Blockchain Operating System Repos (aka B.O.S.)
 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
@@ -25,12 +24,12 @@ ___
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
-| FastAuth | |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
+| FastAuth | co|[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
 | Query API | |[near/query-api](https://github.com/near/queryapi)|
 
 <br/>
 
-## 🛠️ Dev Tools  
+## 🛠️ Dev Tools
 
 ### 🧑‍💻 Quickstart
 | Name      | Description | Repo |
