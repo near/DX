@@ -1,6 +1,6 @@
 # NEAR Developer Experience (DX)
 
-[![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://near.org/onboarding)
+<!-- [![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://near.org/onboarding) -->
 [![Give Feedback](https://img.shields.io/badge/Give_Feedback-F9F502)](https://github.com/near/DX/issues/new/choose)
 [![Report Issue](https://img.shields.io/badge/Report_Issue-BE0303)](https://github.com/near/DX/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-bug-report.md&title=[BUG])
 [![Roadmap](https://img.shields.io/badge/Roadmap-purple)](https://github.com/orgs/near/projects/75/views/1?pane=info)
@@ -16,15 +16,15 @@
 ___
 ## 📂 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
 
-## 🚀 bOS  
+## 🚀 Blockchain Operating System (aka B.O.S.)
 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
 | Gateway     | Near.org frontend source code  |[near/near-discovery](https://github.com/near/near-discovery)|
-| Components | Near.org core bOS components | [near/near-discovery-components](https://github.com/near/near-discovery-components)
-| VM 1   | bOS Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
-| VM 2 | bOS Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
-| bOS Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
+| Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)
+| VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
+| VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
+| B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
 
 <br/>
 
