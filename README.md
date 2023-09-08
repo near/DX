@@ -25,6 +25,8 @@ ___
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
+| FastAuth | |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
+| Query API | |[near/query-api](https://github.com/near/queryapi)|
 
 <br/>
 
