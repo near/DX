@@ -30,7 +30,7 @@ ___
 | wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
 | web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|
 | FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
-| iDOS | Decentralized identity, storage, and verification system| [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)
+| iDOS | Decentralized identity, storage, and verification | [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)
 |**👉 VIRTUAL MACHINE**|||
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
