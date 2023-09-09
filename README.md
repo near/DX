@@ -17,34 +17,38 @@ ___
 
 ## 📂 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
 
-## 🚀 Blockchain Operating System Repos (aka B.O.S.)
+<br/>
+
+## 🚀 Blockchain Operating System (B.O.S.)
 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
-| Gateway     | Near.org frontend source code  |[near/near-discovery](https://github.com/near/near-discovery)|
-| Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)
+|**👉 GATEWAY**|||
+| Discovery    | Main gatway for B.O.S. (Near.org)  |[near/near-discovery](https://github.com/near/near-discovery)|
+| Discovery Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)
+| **👉 AUTH / WALLET**|||
+| wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
+| web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|
+| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
+| iDOS | Decentralized identity, storage, and verification system| [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)
+|**👉 VIRTUAL MACHINE**|||
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
+|**👉 DATABASE**||||
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
-| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
 | Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|
 
 <br/>
+
+___
 
 ## 🛠️ Dev Tools
 
 ### 🧑‍💻 Quickstart
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
+| BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) |
 | create-near-app | Easy fullstack dApp deployment tool |[near/create-near-app](https://github.com/near/create-near-app)|
-| VSCode Ext. | VSCode extension for building bOS components | [near/near-vscode](https://github.com/near/near-vscode) |
-
-### 🔌 API 
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near)|
-| near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|
-| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)
 
 ### 📝 Smart Contracts
 | Name      | Description | Repo |
@@ -57,6 +61,13 @@ ___
 | ----------- | ----------- | --- |
 | workspaces-js| Testing sandbox written in JS  |[near/workspaces-js](https://github.com/near/workspaces-js)|
 | workspaces-rs| Testing sandbox written in Rust |[near/workspaces-rs](https://github.com/near/workspaces-rs)|
+
+### 🔌 API 
+| Name      | Description | Repo |
+| ----------- | ----------- | --- |
+| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near)|
+| near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|
+| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)
 
 ### 🔑 Wallet
 | Name      | Description | Repo |
