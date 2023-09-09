@@ -13,6 +13,8 @@
 >
 > ⬇️ Below you will find a map of essential repositories for NEAR dApp developers. ⬇️
 
+___
+
 ## 📂 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
 
 ## 🚀 Blockchain Operating System Repos (aka B.O.S.)
@@ -24,8 +26,8 @@
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
 | VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
-| FastAuth | |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
-| Query API | |[near/query-api](https://github.com/near/queryapi)|
+| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
+| Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|
 
 <br/>
 
@@ -60,5 +62,3 @@
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
 | wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
-
-</br>
