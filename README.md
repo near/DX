@@ -53,7 +53,7 @@ ___
 ### 📝 Smart Contracts
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
-| near-sdk-js|Create smart contracts w/ JavaScript | [near/near-sdk-rs](https://github.com/near/near-sdk-rs)|
+| near-sdk-js|Create smart contracts w/ JavaScript | [near/near-sdk-js](https://github.com/near/near-sdk-js)|
 | near-sdk-rs|Create smart contracts w/ Rust | [near/near-sdk-rs](https://github.com/near/near-sdk-rs)|
 
 ### 🧪 Testing
@@ -65,9 +65,9 @@ ___
 ### 🔌 API 
 | Name      | Description | Repo |
 | ----------- | ----------- | --- |
-| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near)|
+| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|
 | near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|
-| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)
+| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)|
 
 ### 🔑 Wallet
 | Name      | Description | Repo |
