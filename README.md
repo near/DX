@@ -45,31 +45,31 @@ ___
 ## 🛠️ Dev Tools
 
 ### 🧑‍💻 Quickstart
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) |
-| create-near-app | Easy fullstack dApp deployment tool |[near/create-near-app](https://github.com/near/create-near-app)|
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- |--|
+| BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)
+| create-near-app | Easy fullstack dApp deployment tool |[near/create-near-app](https://github.com/near/create-near-app)|[![Latest Release](https://img.shields.io/github/v/release/near/create-near-app?label=)](https://github.com/near/create-near-app/releases)
 
 ### 📝 Smart Contracts
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| near-sdk-js|Create smart contracts w/ JavaScript | [near/near-sdk-js](https://github.com/near/near-sdk-js)|
-| near-sdk-rs|Create smart contracts w/ Rust | [near/near-sdk-rs](https://github.com/near/near-sdk-rs)|
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- |---|
+| near-sdk-js|Create smart contracts w/ JavaScript | [near/near-sdk-js](https://github.com/near/near-sdk-js) | [![Latest Release](https://img.shields.io/github/v/release/near/near-sdk-js?label=)](https://github.com/near/near-sdk-js/releases)
+| near-sdk-rs|Create smart contracts w/ Rust | [near/near-sdk-rs](https://github.com/near/near-sdk-rs)| [![Latest Release](https://img.shields.io/github/v/release/near/near-sdk-rs?label=)](https://github.com/near/near-sdk-rs/releases)
 
 ### 🧪 Testing
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| workspaces-js| Testing sandbox written in JS  |[near/workspaces-js](https://github.com/near/workspaces-js)|
-| workspaces-rs| Testing sandbox written in Rust |[near/workspaces-rs](https://github.com/near/workspaces-rs)|
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- | --- |
+| workspaces-js| Testing sandbox written in JS  |[near/workspaces-js](https://github.com/near/workspaces-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-js?label=)](https://github.com/near/near-workspaces-js/releases)
+| workspaces-rs| Testing sandbox written in Rust |[near/workspaces-rs](https://github.com/near/workspaces-rs)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-rs?label=)](https://github.com/near/near-workspaces-rs/releases)
 
 ### 🔌 API 
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|
-| near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|
-| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)|
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- | --- |
+| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases)
+| near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|[![Latest Release](https://img.shields.io/github/v/release/near/near-cli?label=)](https://github.com/near/near-cli/releases)
+| near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)| [![Latest Release](https://img.shields.io/github/v/release/near/near-cli-rs?label=)](https://github.com/near/near-cli-rs/releases)
 
 ### 🔑 Wallet
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-| wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- | --- |
+| wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|[![Latest Release](https://img.shields.io/github/v/release/near/wallet-selector?label=)](https://github.com/near/wallet-selector/releases)
