@@ -21,22 +21,22 @@ ___
 
 ## 🚀 Blockchain Operating System (B.O.S.)
 
-| Name      | Description | Repo |
-| ----------- | ----------- | --- |
-|**👉 GATEWAY**|||
-| Discovery    | Main gatway for B.O.S. (Near.org)  |[near/near-discovery](https://github.com/near/near-discovery)|
-| Discovery Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)
-| **👉 AUTH / WALLET**|||
-| wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|
-| web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|
-| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|
-| iDOS | Decentralized identity, storage, and verification | [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)
-|**👉 VIRTUAL MACHINE**|||
-| VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |
-| VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- |--|
+|**👉 GATEWAY**||||
+| Discovery    | Main gateway for B.O.S. (Near.org)  |[near/near-discovery](https://github.com/near/near-discovery)|➖
+| Discovery Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
+| **👉 AUTH / WALLET**||||
+| wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|[![Latest Release](https://img.shields.io/github/v/release/near/wallet-selector?label=)](https://github.com/near/wallet-selector/releases)
+| web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|[![Latest Release](https://img.shields.io/github/v/release/blocknative/web3-onboard?label=)](https://github.com/blocknative/web3-onboard/releases)
+| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|➖
+| iDOS | Decentralized identity, storage, and verification | [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)|➖
+|**👉 VIRTUAL MACHINE**||||
+| VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
+| VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
 |**👉 DATABASE**||||
-| B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)
-| Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|
+| B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)|➖
+| Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|➖
 
 <br/>
 
@@ -44,7 +44,7 @@ ___
 
 ## 🛠️ Dev Tools
 
-| Name      | Description | Repo | Latest Release |
+| Name      | Description | Repo | Latest Release | ➖
 | ----------- | ----------- | --- |--|
 | BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)
 | BOS CLI | CLI for simplifying local development on BOS | [bos-cli-rs/bos-cli-rs](https://github.com/bos-cli-rs/bos-cli-rs) | [![Latest Release](https://img.shields.io/github/v/release/bos-cli-rs/bos-cli-rs?label=)](https://github.com/bos-cli-rs/bos-cli-rs/releases)
@@ -66,13 +66,22 @@ ___
 | workspaces-js| Testing sandbox written in JS  |[near/workspaces-js](https://github.com/near/workspaces-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-js?label=)](https://github.com/near/near-workspaces-js/releases)
 | workspaces-rs| Testing sandbox written in Rust |[near/workspaces-rs](https://github.com/near/workspaces-rs)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-rs?label=)](https://github.com/near/near-workspaces-rs/releases)
 
-### 🔌 API 
+### 🔌 API
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- | --- |
 | near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases)
 | near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|[![Latest Release](https://img.shields.io/github/v/release/near/near-cli?label=)](https://github.com/near/near-cli/releases)
 | near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)| [![Latest Release](https://img.shields.io/github/v/release/near/near-cli-rs?label=)](https://github.com/near/near-cli-rs/releases)
+
+### 🔎 Blockchain Data Indexing
+
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- | --- |
+| QueryApi | Build custom indexers and query with GraphQL endpoints|[near/queryapi](https://github.com/near/queryapi)|➖
+| near-lake-indexer | Built on [NEAR Indexer](https://github.com/near/nearcore/tree/master/chain/indexer) that stores JSON in AWS S3 bucket  |[near/near-lake-indexer](https://github.com/near/near-lake-indexer)|[![Latest Release](https://img.shields.io/github/v/release/near/near-lake-indexer?label=)](https://github.com/near/near-lake-indexer/releases)
+| near-lake-framework-rs | Stream blocks from NEAR Lake into your server |[near/near-lake-framework-rs](https://github.com/near/near-lake-framework-rs)|[![Latest Release](https://img.shields.io/github/v/release/near/near-lake-framework-rs?label=)](https://github.com/near/near-lake-framework-rs/releases)
+| near-lake-framework-js | Stream blocks from NEAR Lake into your server |[near/near-lake-framework-js](https://github.com/near/near-lake-framework-js)| ➖
 
 ### 🔑 Wallet
 
