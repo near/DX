@@ -44,9 +44,9 @@ ___
 
 ## 🛠️ Dev Tools
 
-| Name      | Description | Repo | Latest Release | ➖
+| Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
-| BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)
+| BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) | ➖
 | BOS CLI | CLI for simplifying local development on BOS | [bos-cli-rs/bos-cli-rs](https://github.com/bos-cli-rs/bos-cli-rs) | [![Latest Release](https://img.shields.io/github/v/release/bos-cli-rs/bos-cli-rs?label=)](https://github.com/bos-cli-rs/bos-cli-rs/releases)
 | BOS Loader | Simplifying multiple component local development |[near/bos-loader](https://github.com/near/bos-loader)|[![Latest Release](https://img.shields.io/github/v/release/near/bos-loader?label=)](https://github.com/near/bos-loader/releases)
 | Keypom | Customizable key creation for NFT/FT drops  |[keypom/keypom](https://github.com/keypom/keypom)|[![Latest Release](https://img.shields.io/github/v/release/keypom/keypom?label=)](https://github.com/keypom/keypom/releases)
