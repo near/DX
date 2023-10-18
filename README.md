@@ -29,7 +29,8 @@ ___
 | **👉 AUTH / WALLET**||||
 | wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|[![Latest Release](https://img.shields.io/github/v/release/near/wallet-selector?label=)](https://github.com/near/wallet-selector/releases)
 | web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|[![Latest Release](https://img.shields.io/github/v/release/blocknative/web3-onboard?label=)](https://github.com/blocknative/web3-onboard/releases)
-| FastAuth Signer | Allows FastAuth users to sign transactions |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|➖
+| FastAuth Signer | Authenticate and sign transactions w/ FastAuth |[near/fast-auth-signer](https://github.com/near/fast-auth-signer)|➖
+| mpc-recovery | Create and restore accounts w/ OIDC protocol|[near/mpc-recovery](https://github.com/near/mpc-recovery)|➖
 | iDOS | Decentralized identity, storage, and verification | [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)|➖
 |**👉 VIRTUAL MACHINE**||||
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
