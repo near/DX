@@ -1,0 +1,5 @@
+title: NEAR Developer Experience (DX)
+description: Resources for developers building on NEAR Protocol
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
