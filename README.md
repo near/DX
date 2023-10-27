@@ -24,8 +24,9 @@ ___
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
 |**👉 GATEWAY**||||
-| Discovery    | Main gateway for B.O.S. (Near.org)  |[near/near-discovery](https://github.com/near/near-discovery)|➖
-| Discovery Components | Near.org core B.O.S. components | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
+| near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)|➖
+| near-discovery-compnents | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
+| near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
 | **👉 AUTH / WALLET**||||
 | wallet-selector |Wallet integration tool for NEAR|[near/wallet-selector](https://github.com/near/wallet-selector)|[![Latest Release](https://img.shields.io/github/v/release/near/wallet-selector?label=)](https://github.com/near/wallet-selector/releases)
 | web3-onboard | Wallet integration tool for multichain |[blocknative/web3-onboard](https://github.com/blocknative/web3-onboard)|[![Latest Release](https://img.shields.io/github/v/release/blocknative/web3-onboard?label=)](https://github.com/blocknative/web3-onboard/releases)
