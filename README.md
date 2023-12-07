@@ -25,7 +25,7 @@ ___
 | ----------- | ----------- | --- |--|
 |**👉 GATEWAY**||||
 | near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)|➖
-| near-discovery-compnents | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
+| near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
 | near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
 |**👉 VIRTUAL MACHINE**||||
 | VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
