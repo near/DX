@@ -16,7 +16,7 @@
 
 ## Developer Repositories
 
-Below you will find an overview of essential repositories when building on NEAR Protocol.
+An overview of essential repositories when building on NEAR Protocol.
 
 ### 📝 Docs
 
