@@ -11,15 +11,22 @@
 >
 > **Get involved!** 👉 please select one of the options above. 🙏
 >
-> ⬇️ Below you will find a map of essential repositories for NEAR dApp developers. ⬇️
 
-___
+---
 
-## 📝 DOCS 👉 url: [docs.near.org](https://docs.near.org) repo: [github.com/near/docs](https://github.com/near/docs)
+## Developer Repository Overview
 
-<br/>
+### 📝 Docs
 
-## 🚀 Blockchain Operating System (B.O.S.)
+| Website      | Description | Repo |
+| ----------- | ----------- | --- |
+|[docs.near.org](https://docs.near.org) | NEAR Developer Documentation |[near/docs](https://github.com/near/docs)
+|[nomicon.io](https://nomicon.io)| NEAR Protocol Specification Documentation | [near/neps](https://github.com/near/neps)
+|[near-nodes.io](https://near-nodes.io)| NEAR Node Documentation _(Validator, RPC, Archival)_ |[near/node-docs](https://github.com/near/node-docs)
+
+---
+
+### 🚀 Blockchain Operating System (B.O.S.)
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
@@ -34,18 +41,16 @@ ___
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)|➖
 | Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|➖
 
-<br/>
+---
 
-___
-
-## ⛓️ Protocol
+### ⛓️ Protocol
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- | --- |
 | nearcore | Reference implementation of NEAR Protocol  |[near/nearcore](https://github.com/near/nearcore)|[![Latest Release](https://img.shields.io/github/v/release/near/nearcore?label=)](https://github.com/near/nearcore/releases)
 | NEPs | NEAR Protocol Specifications and Standards  |[near/neps](https://github.com/near/neps)| ➖
 
-## 🛠️ Dev Tools
+### 🛠️ Dev Tools
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
