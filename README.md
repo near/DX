@@ -7,7 +7,7 @@
 [![Dev Support](https://img.shields.io/badge/Dev_Support-white.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/nearprotocol)
 [![Roadmap](https://img.shields.io/badge/Roadmap-purple)](https://github.com/orgs/near/projects/75/views/10)
 
-> This repository dedicated to improving and maintaining a first-rate developer experience when building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
+> This repository is dedicated to improving and maintaining a first-rate developer experience when building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
 >
 > **Get involved!** 👉 please select one of the options above. 🙏
 >
