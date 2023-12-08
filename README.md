@@ -24,7 +24,7 @@ ___
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
 |**👉 GATEWAY**||||
-| near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)|➖
+| near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)| [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases)
 | near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
 | near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
 |**👉 VIRTUAL MACHINE**||||
