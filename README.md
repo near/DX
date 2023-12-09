@@ -3,7 +3,7 @@
 [![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://docs.near.org/bos/)
 [![Give Feedback](https://img.shields.io/badge/Give_Feedback-F9F502)](https://github.com/near/DX/issues/new/choose)
 [![Report Issue](https://img.shields.io/badge/Report_Issue-BE0303)](https://github.com/near/DX/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-bug-report.md&title=[BUG])
-[![Dev Newsletter](https://img.shields.io/badge/Developer_Newsletter-0087E5)](https://forms.gle/RWQceqPPhN1i8gdb8)
+[![Dev Changelog](https://img.shields.io/badge/DEV_Changelog-0087E5)](https://docs.near.org/blog)
 [![Dev Support](https://img.shields.io/badge/Dev_Support-white.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/nearprotocol)
 [![Roadmap](https://img.shields.io/badge/Roadmap-purple)](https://github.com/orgs/near/projects/75/views/10)
 
