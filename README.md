@@ -18,6 +18,8 @@
 
 An overview of essential repositories when building on NEAR Protocol.
 
+<img src="./assets/near-overview.png" width=75%>
+
 ### 📝 Docs
 
 | Website      | Description | Repo |
