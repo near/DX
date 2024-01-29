@@ -38,9 +38,9 @@ An overview of essential repositories when building on NEAR Protocol.
 | near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)| [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases)
 | near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
 | near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
-|**👉 VIRTUAL MACHINE**||||
-| VM 1   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
-| VM 2 | B.O.S. Virtual Machine v2.0 ***(WIP)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
+|**👉 COMPONENT EXECUTION ENVIRONMENT**||||
+| VM   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
+| BWE | B.O.S. Web Engine ***(WIP replacement for VM)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
 |**👉 DATABASE**||||
 | B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)|➖
 | Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|➖
