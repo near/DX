@@ -1,24 +1,19 @@
-# NEAR Developer Experience (DX)
+# NEAR Protocol Developer Guide
 
-[![BUILD](https://img.shields.io/badge/BUILD-03BE09)](https://docs.near.org/bos/)
-[![Give Feedback](https://img.shields.io/badge/Give_Feedback-F9F502)](https://github.com/near/DX/issues/new/choose)
-[![Report Issue](https://img.shields.io/badge/Report_Issue-BE0303)](https://github.com/near/DX/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-bug-report.md&title=[BUG])
-[![Dev Changelog](https://img.shields.io/badge/DEV_Changelog-0087E5)](https://docs.near.org/blog)
-[![Dev Support](https://img.shields.io/badge/Dev_Support-white.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/nearprotocol)
-[![Roadmap](https://img.shields.io/badge/Roadmap-purple)](https://github.com/orgs/near/projects/75/views/10)
+[![DEVHUB](https://img.shields.io/badge/DEV_HUB-03BE09)](https://neardevhub.org/)
+[![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://bit.ly/near-dev-calendar)
+[![SUPPORT](https://img.shields.io/badge/SUPPORT-BE0303)](https://t.me/addlist/VyVjNaP190JlOGMx)
+[![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5)](https://newsletter.neardevhub.org/)
+[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://github.com/near/DX/issues/new?assignees=&labels=enhancement&projects=&template=%F0%9F%A4%94-general-feedback.md&title=%5BFEEDBACK%5D)
 
-> This repository is dedicated to improving and maintaining a first-rate developer experience when building on NEAR. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
+> NEAR is dedicated to providing the best developer experience possible for building an open web. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
 >
-> **Get involved!** 👉 please select one of the options above. 🙏
+> **Get involved!** 👉 please select one of the options above or contribute to one of the essential developer repositories listed below 🙏
 >
 
 ---
 
-## Developer Repositories
-
-An overview of essential repositories when building on NEAR Protocol.
-
-<img src="https://github.com/near/DX/blob/main/assets/near-overview.png?raw=true" width="900"/>
+## Essential Developer Repositories
 
 ### 📝 Docs
 
@@ -29,6 +24,8 @@ An overview of essential repositories when building on NEAR Protocol.
 |[near-nodes.io](https://near-nodes.io)| NEAR Node Documentation _(Validator, RPC, Archival)_ |[near/node-docs](https://github.com/near/node-docs)
 
 ---
+
+<img src="https://github.com/near/DX/blob/main/assets/near-overview.png?raw=true" width="900"/>
 
 ### 🚀 Blockchain Operating System (B.O.S.)
 
