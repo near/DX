@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ❓- Dev Support
-    url: https://stackoverflow.com/questions/tagged/nearprotocol
-    about: Ask a question on Stack Overflow.
+  - name: 🙏 - Dev Feedback
+    url: https://github.com/orgs/near/discussions/new?category=dev-feedback
+    about: NEAR loves feedback! 💜 Please submit your ideas, suggestions, or general feedback regarding your experience building on NEAR.
+  - name: ❓- Dev Support on Telegram
+    url: https://t.me/addlist/VyVjNaP190JlOGMx
+    about: Get support from one of NEAR's commuity Dev Channels on Telegram.
+  - name: ❓ - Dev Support on Discord
+    url: https://near.chat
+    about: Get support from one of NEAR's commuity Dev Channels on Discord.
