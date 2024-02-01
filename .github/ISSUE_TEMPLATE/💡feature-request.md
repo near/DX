@@ -1,9 +1,9 @@
 ---
 name: "\U0001F4A1DX Improvement request"
-about: Suggest an idea for improving 
+about: Suggest an idea or improvement feature 
 title: ''
 labels: ''
-assignees: ''
+assignees: 'thisisjoshford'
 
 ---
 

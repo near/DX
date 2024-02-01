@@ -1,9 +1,9 @@
 ---
 name: "\U0001F41EReport-Issue"
-about: Report an DX problem or issue.
+about: Report a problem or issue when building on NEAR.
 title: ''
 labels: ''
-assignees: ''
+assignees: 'thisisjoshford'
 
 ---
 
