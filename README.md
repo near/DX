@@ -2,7 +2,7 @@
 
 [![DEVHUB](https://img.shields.io/badge/DEV_HUB-03BE09)](https://neardevhub.org/)
 [![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://bit.ly/near-dev-calendar)
-[![SUPPORT](https://img.shields.io/badge/SUPPORT-BE0303)](https://t.me/addlist/VyVjNaP190JlOGMx)
+[![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/VyVjNaP190JlOGMx)
 [![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5)](https://newsletter.neardevhub.org/)
 [![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://github.com/near/DX/issues/new?assignees=&labels=enhancement&projects=&template=%F0%9F%A4%94-general-feedback.md&title=%5BFEEDBACK%5D)
 
@@ -34,9 +34,9 @@
 
 ---
 
-### 🚀 Decentralized Front-End Stack
+### 🚀 Decentralized Frontend Stack
 
-> Create a decentralized front end components with the source code stored on-chain 🤯.
+> Create decentralized frontend components by storing it's source code on the blockchain 🤯.
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
@@ -44,7 +44,7 @@
 | near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)| [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases)
 | near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
 | near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
-|**👉 FE EXECUTION ENVIRONMENT**||||
+|**👉 EXECUTION ENVIRONMENT**||||
 | VM   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
 | BWE | B.O.S. Web Engine ***(WIP replacement for VM)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
 |**👉 DATABASE**||||
@@ -78,6 +78,12 @@
 | mpc-recovery | Create and restore accounts w/ OIDC protocol|[near/mpc-recovery](https://github.com/near/mpc-recovery)|➖
 | iDOS | Decentralized identity, storage, and verification | [idos-network/idos-sdk-js](https://github.com/idos-network/idos-sdk-js)|➖
 
+### 🔌 API
+
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- | --- |
+| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases)
+
 ### 📝 Smart Contracts
 
 | Name      | Description | Repo | Latest Release |
@@ -92,12 +98,6 @@
 | ----------- | ----------- | --- | --- |
 | workspaces-js| Testing sandbox written in JS  |[near/workspaces-js](https://github.com/near/workspaces-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-js?label=)](https://github.com/near/near-workspaces-js/releases)
 | workspaces-rs| Testing sandbox written in Rust |[near/workspaces-rs](https://github.com/near/workspaces-rs)|[![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-rs?label=)](https://github.com/near/near-workspaces-rs/releases)
-
-### 🔌 API
-
-| Name      | Description | Repo | Latest Release |
-| ----------- | ----------- | --- | --- |
-| near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases)
 
 ### 🔎 Blockchain Data Indexing
 
