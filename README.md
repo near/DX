@@ -4,7 +4,7 @@
 [![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://bit.ly/near-dev-calendar)
 [![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/VyVjNaP190JlOGMx)
 [![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5)](https://newsletter.neardevhub.org/)
-[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://github.com/near/DX/issues/new?assignees=&labels=enhancement&projects=&template=%F0%9F%A4%94-general-feedback.md&title=%5BFEEDBACK%5D)
+[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://github.com/orgs/near/discussions/new?category=dev-feedback)
 
 > NEAR is dedicated to providing the best developer experience possible for building an open web. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
 >
