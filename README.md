@@ -11,9 +11,9 @@
 > **Get involved!** 👉 please select one of the options above or contribute to one of the essential developer repositories listed below 🙏
 >
 
----
+<img src="https://github.com/near/DX/blob/main/assets/near-overview.png?raw=true" width="900"/>
 
-## Essential Developer Repositories
+---
 
 ### 📝 Docs
 
@@ -25,31 +25,32 @@
 
 ---
 
-<img src="https://github.com/near/DX/blob/main/assets/near-overview.png?raw=true" width="900"/>
-
-### 🚀 Blockchain Operating System (B.O.S.)
-
-| Name      | Description | Repo | Latest Release |
-| ----------- | ----------- | --- |--|
-|**👉 GATEWAY**||||
-| near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)| [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases)
-| near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
-| near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
-|**👉 COMPONENT EXECUTION ENVIRONMENT**||||
-| VM   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
-| BWE | B.O.S. Web Engine ***(WIP replacement for VM)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
-|**👉 DATABASE**||||
-| B.O.S. Database | Smart contract storing component source code | [nearsocial/social-db](https://github.com/NearSocial/social-db)|➖
-| Query API | Easy custom indexing for your dApp |[near/query-api](https://github.com/near/queryapi)|➖
-
----
-
 ### ⛓️ Protocol
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- | --- |
 | nearcore | Reference implementation of NEAR Protocol  |[near/nearcore](https://github.com/near/nearcore)|[![Latest Release](https://img.shields.io/github/v/release/near/nearcore?label=)](https://github.com/near/nearcore/releases)
 | NEPs | NEAR Protocol Specifications and Standards  |[near/neps](https://github.com/near/neps)| ➖
+
+---
+
+### 🚀 Decentralized Front-End Stack
+
+> Create a decentralized front end components with the source code stored on-chain 🤯.
+
+| Name      | Description | Repo | Latest Release |
+| ----------- | ----------- | --- |--|
+|**👉 GATEWAY**||||
+| near-discovery    | near.org Gateway  |[near/near-discovery](https://github.com/near/near-discovery)| [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases)
+| near.social | near.social Gateway | [NearSocial/viewer](https://github.com/NearSocial/viewer) | ➖
+| near-discovery-components | Core components / primitives for near.org | [near/near-discovery-components](https://github.com/near/near-discovery-components)| ➖
+|**👉 FE EXECUTION ENVIRONMENT**||||
+| VM   | B.O.S. Virtual Machine  | [nearsocial/VM](https://github.com/NearSocial/VM) |[![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)
+| BWE | B.O.S. Web Engine ***(WIP replacement for VM)*** | [near/bos-web-engine](https://github.com/near/bos-web-engine) |➖
+|**👉 DATABASE**||||
+| B.O.S. Database | Smart contract hosting frontend source code & user data | [nearsocial/social-db](https://github.com/NearSocial/social-db)|➖
+
+---
 
 ### 🛠️ Dev Tools
 
@@ -63,9 +64,9 @@
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
-| BOS CLI | CLI for simplifying local development on BOS | [bos-cli-rs/bos-cli-rs](https://github.com/bos-cli-rs/bos-cli-rs) | [![Latest Release](https://img.shields.io/github/v/release/bos-cli-rs/bos-cli-rs?label=)](https://github.com/bos-cli-rs/bos-cli-rs/releases)
 | near-cli | JS based CLI for interacting w/ NEAR | [near/near-cli](https://github.com/near/near-cli)|[![Latest Release](https://img.shields.io/github/v/release/near/near-cli?label=)](https://github.com/near/near-cli/releases)
 | near-cli-rs| Rust based CLI for interacting w/ NEAR | [near/near-cli-rs](https://github.com/near/near-cli-rs)| [![Latest Release](https://img.shields.io/github/v/release/near/near-cli-rs?label=)](https://github.com/near/near-cli-rs/releases)
+| BOS CLI | CLI for simplifying local development on BOS | [bos-cli-rs/bos-cli-rs](https://github.com/bos-cli-rs/bos-cli-rs) | [![Latest Release](https://img.shields.io/github/v/release/bos-cli-rs/bos-cli-rs?label=)](https://github.com/bos-cli-rs/bos-cli-rs/releases)
 
 ### 🔑 Wallet / Auth
 
