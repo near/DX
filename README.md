@@ -56,9 +56,10 @@
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
-| create-near-app | Easy fullstack dApp deployment tool |[near/create-near-app](https://github.com/near/create-near-app)|[![Latest Release](https://img.shields.io/github/v/release/near/create-near-app?label=)](https://github.com/near/create-near-app/releases)
+| create-near-app | Easy fullstack dApp deployment tool | [near/create-near-app](https://github.com/near/create-near-app) | [![Latest Release](https://img.shields.io/github/v/release/near/create-near-app?label=)](https://github.com/near/create-near-app/releases)
+| cargo-near | Cargo extension for building smart contracts and ABI schemas on NEAR | [near/cargo-near](https://github.com/near/cargo-near) | [![Latest Release](https://img.shields.io/github/v/release/near/cargo-near?label=)](https://github.com/near/cargo-near/releases)
 | BOS VSCode Ext. | VSCode extension for building B.O.S. components | [near/near-vscode](https://github.com/near/near-vscode) | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)
-| BOS Loader | Simplifying multiple component local development |[near/bos-loader](https://github.com/near/bos-loader)|[![Latest Release](https://img.shields.io/github/v/release/near/bos-loader?label=)](https://github.com/near/bos-loader/releases)
+| BOS Loader | Simplifying multiple component local development | [near/bos-loader](https://github.com/near/bos-loader) | [![Latest Release](https://img.shields.io/github/v/release/near/bos-loader?label=)](https://github.com/near/bos-loader/releases)
 
 ### 💻 CLI
 
